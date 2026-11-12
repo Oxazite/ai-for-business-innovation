@@ -1,6 +1,6 @@
 # AI for Business Innovation (AI4BIZ) — Enterprise Solution Showcase
 
-An architectural and strategic overview of an enterprise AI transformation framework developed for **AI For Business Innovation (AI4BIZ)** by **K-Tech College 2026** and **LikeLion Vietnam**.
+An architectural and strategic overview of an enterprise AI transformation framework developed for [**AI For Business Innovation (AI4BIZ)**](https://app.notion.com/p/likelion/AI-FOR-BUSINESS-INNOVATION-3f744860a4f480ab920ddb3911a25c21) ↗ by **K-Tech College 2026** and **LikeLion Vietnam**.
 
 ---
 
